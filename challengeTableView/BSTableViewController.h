@@ -1,5 +1,5 @@
 //
-//  BSViewController.h
+//  BSTableViewController.h
 //  challengeTableView
 //
 //  Created by B.Suresh on 8/31/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BSViewController : UIViewController
+@interface BSTableViewController : UITableViewController
 
 @end
